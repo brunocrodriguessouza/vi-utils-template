@@ -1,0 +1,13 @@
+; servers
+
+[development]
+devserver01 		#192.168.1.10
+devserver02 		#192.168.1.11
+
+[tests]
+testserver01 		#192.168.1.12
+testserver02 		#192.168.1.13
+
+[production]
+prodserver01 		#192.168.1.14
+prodserver02 		#192.168.1.15
